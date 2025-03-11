@@ -1,4 +1,4 @@
-#oh-my-zsh-git-cheatsheet
+#Oh My Zsh Git Cheatsheet
 
 | Alias | Command |
 |--------|---------|
